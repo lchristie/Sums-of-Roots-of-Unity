@@ -1,5 +1,5 @@
 # Sums-of-Roots-of-Unity
-This is the code relating to the paper linked. It contains the most recent version of the code as well as examples and outputs. It is split over _ files as explained below. The project it written in Python and depends on the following packages:
+This is the code relating to the paper linked. It contains the most recent version of the code as well as examples and outputs. It is split over 7 files as explained below. The project it written in Python and depends on the following packages:
 
 Support.py
 
